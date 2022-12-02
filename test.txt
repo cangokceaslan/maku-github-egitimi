@@ -5,3 +5,4 @@ Bu bir test dosyasıdır 2.
 Test branch değişikliği eklendi.
 
 Conflict eklendi.
+Test branch değişikliği eklendi 2.
